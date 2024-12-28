@@ -10,4 +10,11 @@
 1. Navigate to the `backend` directory:
    ```bash
    cd backend
+
+2. Install dependencies:
+   pip install -r ../requirements.txt
+3. Run the Flask server:
+   python app.py
+
+
  
